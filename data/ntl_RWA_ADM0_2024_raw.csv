@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+41251308B48772205060280,Rwanda,23681.8,95426,41390.6,10272.1,1.74778,0.433745,0,0.974612,103.28,4619.43,0.195062,192.093,0.00811142,1.33973e+07,1.33973e+07,5.28706e+06,8.11019e+06,0.394637,565.72,0.00308948,0.919899,0.857769,4.94323,1,1,1
